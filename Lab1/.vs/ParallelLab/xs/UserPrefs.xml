@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{B8B33DB6-AEAB-4D4A-8966-04A90844D811}|Default">
+  <MonoDevelop.Ide.ItemProperties.ParallelLab PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParallelLab/LockFreeQueue.cs">
+    <Files>
+      <File FileName="ParallelLab/Util/MarkedReference.cs" Line="22" Column="9" />
+      <File FileName="ParallelLab/Node.cs" Line="1" Column="1" />
+      <File FileName="ParallelLab/QueueNode.cs" Line="1" Column="1" />
+      <File FileName="ParallelLab/LockFreeQueue.cs" Line="5" Column="35" />
+      <File FileName="ParallelLab/Util/Atomic/AtomicReference.cs" Line="5" Column="33" />
+      <File FileName="ParallelLab/Util/SkipListSettings.cs" Line="3" Column="42" />
+      <File FileName="ParallelLab/LinkedListNode.cs" Line="1" Column="1" />
+      <File FileName="ParallelLab/CasMutex.cs" Line="52" Column="32" />
+      <File FileName="ParallelLab/LockFreeLinkedList.cs" Line="122" Column="51" />
+      <File FileName="ParallelLab/Util/Atomic/AtomicBool.cs" Line="1" Column="1" />
+      <File FileName="ParallelLab/Util/ReferenceBase.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ParallelLab" expanded="True">
+            <Node name="ParallelLab" expanded="True">
+              <Node name="Util" expanded="True">
+                <Node name="Atomic" expanded="True" />
+              </Node>
+              <Node name="LockFreeQueue.cs" selected="True" />
+            </Node>
+            <Node name="ParallelLab.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

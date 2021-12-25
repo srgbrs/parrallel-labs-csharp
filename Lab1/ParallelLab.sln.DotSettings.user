@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0087bf58_002D03c0_002D4cd2_002D9d96_002De56d4b0bd151/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SkipListTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::54284FC6-8D42-4850-A549-7D842C726DFE::net5.0::ParallelLab.Tests.CollectionsTests.SkipListTests.SkipListTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::54284FC6-8D42-4850-A549-7D842C726DFE::net5.0::ParallelLab.Tests.CasMutexTests.CastMutexTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::54284FC6-8D42-4850-A549-7D842C726DFE::net5.0::ParallelLab.Tests.CollectionsTests.LinkedListTests.LinkedListTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::54284FC6-8D42-4850-A549-7D842C726DFE::net5.0::ParallelLab.Tests.CollectionsTests.LockFreeQueueTests.LockFreeQueueTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

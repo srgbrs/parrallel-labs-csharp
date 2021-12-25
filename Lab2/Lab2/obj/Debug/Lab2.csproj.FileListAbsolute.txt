@@ -1,0 +1,148 @@
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/Lab2.exe.config
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/Lab2.exe
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/Lab2.pdb
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/Akka.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/Microsoft.Extensions.ObjectPool.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/Newtonsoft.Json.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Buffers.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Collections.Immutable.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Configuration.ConfigurationManager.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Memory.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Numerics.Vectors.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Security.AccessControl.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Security.Permissions.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Security.Principal.Windows.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Threading.Channels.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/Akka.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/Microsoft.Extensions.ObjectPool.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/Newtonsoft.Json.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Buffers.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Collections.Immutable.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Configuration.ConfigurationManager.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Memory.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Numerics.Vectors.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Security.AccessControl.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Security.Permissions.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Security.Principal.Windows.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Threading.Channels.xml
+/Users/vladimir/Desktop/Lab2/Lab2/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/vladimir/Desktop/Lab2/Lab2/obj/Debug/Lab2.csprojAssemblyReference.cache
+/Users/vladimir/Desktop/Lab2/Lab2/obj/Debug/Lab2.exe.config
+/Users/vladimir/Desktop/Lab2/Lab2/obj/Debug/Lab2.csproj.CoreCompileInputs.cache
+/Users/vladimir/Desktop/Lab2/Lab2/obj/Debug/Lab2.csproj.CopyComplete
+/Users/vladimir/Desktop/Lab2/Lab2/obj/Debug/Lab2.exe
+/Users/vladimir/Desktop/Lab2/Lab2/obj/Debug/Lab2.pdb
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/Lab2.exe.config
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/Lab2.exe
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/Lab2.pdb
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/Akka.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/Microsoft.Extensions.ObjectPool.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/Newtonsoft.Json.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Buffers.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Collections.Immutable.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Configuration.ConfigurationManager.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Memory.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Numerics.Vectors.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Security.AccessControl.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Security.Permissions.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Security.Principal.Windows.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Threading.Channels.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/Akka.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/Microsoft.Extensions.ObjectPool.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/Newtonsoft.Json.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Buffers.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Collections.Immutable.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Configuration.ConfigurationManager.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Memory.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Numerics.Vectors.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Security.AccessControl.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Security.Permissions.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Security.Principal.Windows.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Threading.Channels.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/obj/Debug/Lab2.csprojAssemblyReference.cache
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/obj/Debug/Lab2.exe.config
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/obj/Debug/Lab2.csproj.CoreCompileInputs.cache
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/obj/Debug/Lab2.csproj.CopyComplete
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/obj/Debug/Lab2.exe
+/Users/vladimir/Desktop/4 курс 1 семестр/ПРВ/Lab2/Lab2/obj/Debug/Lab2.pdb
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/Lab2.exe.config
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/Lab2.exe
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/Lab2.pdb
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/Akka.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/Microsoft.Extensions.ObjectPool.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/Newtonsoft.Json.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Buffers.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Collections.Immutable.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Configuration.ConfigurationManager.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Memory.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Numerics.Vectors.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Security.AccessControl.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Security.Permissions.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Security.Principal.Windows.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Threading.Channels.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/Akka.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/Microsoft.Extensions.ObjectPool.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/Newtonsoft.Json.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Buffers.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Collections.Immutable.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Configuration.ConfigurationManager.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Memory.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Numerics.Vectors.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Security.AccessControl.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Security.Permissions.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Security.Principal.Windows.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Threading.Channels.xml
+/Users/apple/Downloads/Lab2/Lab2/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/apple/Downloads/Lab2/Lab2/obj/Debug/Lab2.csproj.AssemblyReference.cache
+/Users/apple/Downloads/Lab2/Lab2/obj/Debug/Lab2.exe.config
+/Users/apple/Downloads/Lab2/Lab2/obj/Debug/Lab2.csproj.CoreCompileInputs.cache
+/Users/apple/Downloads/Lab2/Lab2/obj/Debug/Lab2.csproj.CopyComplete
+/Users/apple/Downloads/Lab2/Lab2/obj/Debug/Lab2.exe
+/Users/apple/Downloads/Lab2/Lab2/obj/Debug/Lab2.pdb
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/Lab2.exe.config
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/Lab2.exe
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/Lab2.pdb
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/Akka.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/Microsoft.Extensions.ObjectPool.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/Newtonsoft.Json.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Buffers.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Collections.Immutable.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Configuration.ConfigurationManager.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Memory.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Numerics.Vectors.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Security.AccessControl.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Security.Permissions.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Security.Principal.Windows.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Threading.Channels.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/Akka.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/Microsoft.Extensions.ObjectPool.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/Newtonsoft.Json.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Buffers.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Collections.Immutable.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Configuration.ConfigurationManager.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Memory.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Numerics.Vectors.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Security.AccessControl.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Security.Permissions.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Security.Principal.Windows.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Threading.Channels.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/obj/Debug/Lab2.csproj.AssemblyReference.cache
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/obj/Debug/Lab2.exe.config
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/obj/Debug/Lab2.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/obj/Debug/Lab2.csproj.CopyComplete
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/obj/Debug/Lab2.exe
+/Users/apple/Documents/КПИ/4 курс/parallel-computing-csharp/Lab2/Lab2/obj/Debug/Lab2.pdb
